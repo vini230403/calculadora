@@ -8,4 +8,4 @@ npm install
 
 npm install styled-components
 
-npm start
+npm run dev
